@@ -23,11 +23,9 @@
 
   ### Stats
 
-  <div style="display: flex; align-items: flex-start;">
-    <img align="top left" src="https://github-readme-stats.vercel.app/api?username=kinkio&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"   />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinkio&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"   />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinkio&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> 
    <img align="right" src="https://komarev.com/ghpvc/?username=kinkio" alt="kinkio" />
-  </div>
 
 </div>
 
