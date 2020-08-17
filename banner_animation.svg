@@ -18,7 +18,7 @@
           line-height: 15px;
           padding-top: 10px;
           text-align: center;
-          font: 400 25px/1.5 Helvetica ,Arial ,sans-serif;
+          font: 600 30px/1.5 Helvetica ,Arial ,sans-serif;
           color: rgb(52, 73, 94);
           transform-origin: bottom;
           animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
