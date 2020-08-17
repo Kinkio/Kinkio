@@ -1,8 +1,13 @@
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=4548398" />
 <img align="center" src="https://github.com/Kinkio/Kinkio/blob/master/banner_animation.svg"/>
 
+<br/>
+
 ### A passionate danish developer.
+
 <p>Trying to improve and getting better project by project, 
   and getting better to put them on github :stuck_out_tongue:</p>
+<br/>
 
 ---
 
@@ -24,8 +29,10 @@
   ### Stats
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinkio&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"   />
-    <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinkio&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> 
-   <img align="left" src="https://komarev.com/ghpvc/?username=kinkio" alt="kinkio" />
+    <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinkio&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> 
+   
+  
+   <img align="right" src="https://komarev.com/ghpvc/?username=kinkio" alt="kinkio" />
 
 </div>
 
