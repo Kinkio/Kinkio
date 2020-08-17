@@ -24,17 +24,16 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>&nbsp; 
   </p>
 
+</div>
+
 ---
 
   ### Stats
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinkio&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"   />
     <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinkio&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> 
-   
-  
-   <img align="right" src="https://komarev.com/ghpvc/?username=kinkio" alt="kinkio" />
 
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=kinkio" alt="kinkio" />
 
 
 
