@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=4548398" />
-<img align="center" src="https://github.com/Kinkio/Kinkio/blob/master/banner_animation.svg"/>
+<img align="center" width="600" src="https://github.com/Kinkio/Kinkio/blob/master/banner_animation.svg"/>
 
 <br/>
 
