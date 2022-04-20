@@ -3,13 +3,6 @@
 
 <br/>
 
-
-### A passionate danish developer.
-
-<p>Trying to improve and getting better project by project, 
-  and getting better to put them on github :stuck_out_tongue:</p>
-<br/>
-
 ---
 
   ### Skills
